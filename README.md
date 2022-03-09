@@ -5,9 +5,11 @@
 [起始页](https://arcxingye.github.io/rr/a.html)
 |
 [目标页](https://xingye.me/game)
+|
+[二维码](https://arcxingye.github.io/rr/qrcode)
 
-鉴于国内严格的url审核，本仓库中用于传播的页面使用了套娃a->b->c
+鉴于国内严格的url审核，用于传播的页面使用了套娃a->b->c
 
-如有拦截情况，就会更改页面。[点击获取当前二维码](https://arcxingye.github.io/rr/qrcode)
+如有国内平台拦截情况，就会更改页面及链接
 
-注意：这只是二次元随机背景图页+rickroll，别想太多
+注意：这只是二次元随机背景图+rickroll，别想太多
