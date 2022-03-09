@@ -1,5 +1,11 @@
 # rickroll
 
+[原仓库](https://github.com/Hisuifeng/cheat)
+|
+[起始页](https://arcxingye.github.io/rr/a.html)
+|
+[目标页](https://xingye.me/game)
+
 鉴于国内严格的url审核，本仓库中用于传播的页面使用了套娃a->b->c
 
 如有拦截情况，就会更改页面。[点击获取当前二维码](https://arcxingye.github.io/rr/qrcode)
