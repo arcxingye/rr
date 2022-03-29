@@ -147,8 +147,7 @@
         </div>
     </div>
     <div class="scare">
-        <video id="video" class="video" src="https://vdse.bdstatic.com/192d9a98d782d9c74c96f09db9378d93.mp4"
-            loop="loop"></video>
+        <video id="video" class="video" src="https://vdse.bdstatic.com/192d9a98d782d9c74c96f09db9378d93.mp4"></video>
         </video>
     </div>
     <script type="text/javascript">
@@ -156,13 +155,11 @@
         const overlay = document.getElementById("overlay");
         const declineButton = document.getElementById("decline-button");
         const acceptButton = document.getElementById("accept-button");
-        let hasClicked;
-        window.onbeforeunload = function () {
-            if (hasClicked) return true;
-        };
+        video.addEventListener("ended", function () {
+            window.location.href = "https://arcxingye.github.io/rr/qrcode";
+        });
         function buttonClick1(event) {
             event.preventDefault();
-            if (!hasClicked) hasClicked = true;
             overlay.hidden = true;
             video.play();
             videoClick();
@@ -172,7 +169,6 @@
         }
         function videoClick(event) {
             if (event) event.preventDefault();
-            // if not fullscreen
             const { documentElement } = document;
             if (documentElement.requestFullscreen) documentElement.requestFullscreen();
             else if (documentElement.mozRequestFullScreen) documentElement.mozRequestFullScreen();
@@ -184,3 +180,5 @@
         video.addEventListener("click", videoClick);
     </script>
 </body>
+
+</html>
