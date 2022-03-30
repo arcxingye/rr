@@ -6,6 +6,6 @@ rickroll新码 长按或右键保存
 
 <img width="300" height="300" src="https://s3.bmp.ovh/imgs/2022/03/ada23ef9583f92e3.jpg"/>
 
-累计上当人数：
+累计上当总次数：
 
 ![rickroll](https://count.getloli.com/get/@rickroll)
