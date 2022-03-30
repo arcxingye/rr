@@ -14,6 +14,6 @@
 
 注意：这只是二次元随机背景图+rickroll，别想太多
 
-累计上当人数：
+累计上当总次数：
 
 ![rickroll](https://count.getloli.com/get/@rickroll)
