@@ -1,3 +1,5 @@
+[点击返回index](https://arcxingye.github.io/)
+
 rickroll新码 长按或右键保存
 
 <img width="300" height="300" src="https://s3.bmp.ovh/imgs/2022/03/31/0627177ae0d1c77b.png"/>
@@ -17,5 +19,3 @@ rickroll新码 长按或右键保存
 更新记录
 
 2022/3/31 a.html寄了，改为a1.html
-
-<div><ins style="width: 300px;height:250px" data-width="300" data-height="250" class="l57daf4d2ef" data-domain="//qoaaa.com" data-affquery="/f2d84885c2/57daf4d2ef/?placementName=github"><script src="//qoaaa.com/js/responsive.js" async></script></ins></div>
