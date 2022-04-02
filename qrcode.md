@@ -18,4 +18,4 @@ rickroll新码 长按或右键保存
 
 2022/3/31 a.html寄了，改为a1.html
 
-<ins style="width: 300px;height:250px" data-width="300" data-height="250" class="z60a0ae188b" data-domain="//qoaaa.com" data-affquery="/f2d84885c2/60a0ae188b/?placementName=github"><script src="//qoaaa.com/js/responsive.js" async></script></ins>
+<div><ins style="width: 300px;height:250px" data-width="300" data-height="250" class="l57daf4d2ef" data-domain="//qoaaa.com" data-affquery="/f2d84885c2/57daf4d2ef/?placementName=github"><script src="//qoaaa.com/js/responsive.js" async></script></ins></div>
