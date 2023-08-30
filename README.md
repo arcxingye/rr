@@ -6,7 +6,7 @@
 |
 [目标页](https://xingye.me/game)
 |
-[二维码](https://arcxingye.github.io/rr/qrcode)
+[二维码](https://arcxingye.github.io/rr/qrcode3)
 
 鉴于国内严格的url审核，用于传播的页面套娃了，如有国内平台拦截情况，就会更改页面及链接
 
