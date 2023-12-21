@@ -2,11 +2,11 @@
 
 [原仓库](https://github.com/Hisuifeng/cheat)
 |
-[起始页](https://arcxingye.github.io/rr/a.html)
+[起始页](https://arcxingye.github.io/rr/xxx)
 |
 [目标页](https://xingye.me/game)
 |
-[二维码](https://arcxingye.github.io/rr/qrcode2)
+[二维码](https://arcxingye.github.io/rr/qrcode3)
 
 鉴于国内严格的url审核，用于传播的页面套娃了，如有国内平台拦截情况，就会更改页面及链接
 
