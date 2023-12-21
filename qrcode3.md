@@ -4,25 +4,25 @@
 
 rickroll码，长按或右键保存，你也可以用QRCODE自行做
 
-<img width="300" height="300" src="/Image/1.jpg"/>
+<img width="300" height="300" src="https://github.com/arcxingye/rr/raw/main/Image/1.jpg"/>
 
-<img width="300" height="300" src="/Image/2.jpg"/>
+<img width="300" height="300" src="https://github.com/arcxingye/rr/raw/main/Image/2.jpg"/>
 
-<img width="300" height="300" src="/Image/3.jpg"/>
+<img width="300" height="300" src="https://github.com/arcxingye/rr/raw/main/Image/3.jpg"/>
 
-<img width="300" height="300" src="/Image/4.jpg"/>
+<img width="300" height="300" src="https://github.com/arcxingye/rr/raw/main/Image/4.jpg"/>
 
-<img width="300" height="300" src="/Image/5.jpg"/>
+<img width="300" height="300" src="https://github.com/arcxingye/rr/raw/main/Image/5.jpg"/>
 
-<img width="300" height="300" src="/Image/6.jpg"/>
+<img width="300" height="300" src="https://github.com/arcxingye/rr/raw/main/Image/6.jpg"/>
 
-<img width="300" height="300" src="/Image/7.jpg"/>
+<img width="300" height="300" src="https://github.com/arcxingye/rr/raw/main/Image/7.jpg"/>
 
-<img width="300" height="300" src="/Image/8.jpg"/>
+<img width="300" height="300" src="https://github.com/arcxingye/rr/raw/main/Image/8.jpg"/>
 
-<img width="300" height="300" src="/Image/9.jpg"/>
+<img width="300" height="300" src="https://github.com/arcxingye/rr/raw/main/Image/9.jpg"/>
 
-<img width="300" height="300" src="/Image/10.jpg"/>
+<img width="300" height="300" src="https://github.com/arcxingye/rr/raw/main/Image/10.jpg"/>
 
 累计上当总次数：
 
