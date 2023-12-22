@@ -4,25 +4,25 @@
 
 rickroll码，长按或右键保存，你也可以用[Qart](https://github.com/scola/Qart)自行生成
 
-<img width="300" height="300" src="https://github.com/arcxingye/rr/raw/main/Image/1.jpg"/>
+<img width="300" height="300" src="https://xingye.me/tool/qrcode/1.jpg"/>
 
-<img width="300" height="300" src="https://github.com/arcxingye/rr/raw/main/Image/2.jpg"/>
+<img width="300" height="300" src="https://xingye.me/tool/qrcode/2.jpg"/>
 
-<img width="300" height="300" src="https://github.com/arcxingye/rr/raw/main/Image/3.jpg"/>
+<img width="300" height="300" src="https://xingye.me/tool/qrcode/3.jpg"/>
 
-<img width="300" height="300" src="https://github.com/arcxingye/rr/raw/main/Image/4.jpg"/>
+<img width="300" height="300" src="https://xingye.me/tool/qrcode/4.jpg"/>
 
-<img width="300" height="300" src="https://github.com/arcxingye/rr/raw/main/Image/5.jpg"/>
+<img width="300" height="300" src="https://xingye.me/tool/qrcode/5.jpg"/>
 
-<img width="300" height="300" src="https://github.com/arcxingye/rr/raw/main/Image/6.jpg"/>
+<img width="300" height="300" src="https://xingye.me/tool/qrcode/6.jpg"/>
 
-<img width="300" height="300" src="https://github.com/arcxingye/rr/raw/main/Image/7.jpg"/>
+<img width="300" height="300" src="https://xingye.me/tool/qrcode/7.jpg"/>
 
-<img width="300" height="300" src="https://github.com/arcxingye/rr/raw/main/Image/8.jpg"/>
+<img width="300" height="300" src="https://xingye.me/tool/qrcode/8.jpg"/>
 
-<img width="300" height="300" src="https://github.com/arcxingye/rr/raw/main/Image/9.jpg"/>
+<img width="300" height="300" src="https://xingye.me/tool/qrcode/9.jpg"/>
 
-<img width="300" height="300" src="https://github.com/arcxingye/rr/raw/main/Image/10.jpg"/>
+<img width="300" height="300" src="https://xingye.me/tool/qrcode/10.jpg"/>
 
 累计上当总次数：
 
