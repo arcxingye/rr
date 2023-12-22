@@ -2,7 +2,7 @@
 
 关于rickroll链接，如果不能用，可以自己构造链接，https://arcxingye.github.io/rr/再加上任意字符即可
 
-rickroll码，长按或右键保存，你也可以用QRCODE自行做
+rickroll码，长按或右键保存，你也可以用[Qart](https://github.com/scola/Qart)自行生成
 
 <img width="300" height="300" src="https://github.com/arcxingye/rr/raw/main/Image/1.jpg"/>
 
