@@ -1,5 +1,7 @@
 [点击返回index](https://arcxingye.github.io/)
 
+[第一期](https://arcxingye.github.io/rr/qrcode)|[第二期](https://arcxingye.github.io/rr/qrcode2)|[第三期](https://arcxingye.github.io/rr/qrcode3)|[第四期](https://arcxingye.github.io/rr/qrcode4)
+
 关于rickroll链接，如果不能用，可以自己构造链接，https://arcxingye.github.io/rr/再加上任意字符即可
 
 rickroll码，长按或右键保存，你也可以用[Qart](https://github.com/scola/Qart)自行生成

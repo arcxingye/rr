@@ -1,5 +1,7 @@
 [点击返回index](https://arcxingye.github.io/)
 
+[第一期](https://arcxingye.github.io/rr/qrcode)|[第二期](https://arcxingye.github.io/rr/qrcode2)|[第三期](https://arcxingye.github.io/rr/qrcode3)|[第四期](https://arcxingye.github.io/rr/qrcode4)
+
 关于rickroll链接，如果不能用，请尝试rr/a1-a10，总有一个能用，例如https://arcxingye.github.io/rr/a5
 
 rickroll新码 长按或右键保存
