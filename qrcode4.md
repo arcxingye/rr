@@ -8,25 +8,25 @@
 
 rickroll码，长按或右键保存，你也可以用[Qart](https://github.com/scola/Qart)自行生成
 
-<img width="300" height="300" src="https://s2.loli.net/2024/05/06/CTWLKsZflyE9Ug4.png"/>
+<img width="300" height="300" src="https://xingye.me/tool/qrcode/4/1.png"/>
 
-<img width="300" height="300" src="https://s2.loli.net/2024/05/06/ogF6UBykrDsmpYL.png"/>
+<img width="300" height="300" src="https://xingye.me/tool/qrcode/4/2.png"/>
 
-<img width="300" height="300" src="https://s2.loli.net/2024/05/06/BSX9Hyf4R3ZKFTU.png"/>
+<img width="300" height="300" src="https://xingye.me/tool/qrcode/4/3.png"/>
 
-<img width="300" height="300" src="https://s2.loli.net/2024/05/06/acUl5TB2w3RhKYG.png"/>
+<img width="300" height="300" src="https://xingye.me/tool/qrcode/4/4.png"/>
 
-<img width="300" height="300" src="https://s2.loli.net/2024/05/06/15lHEPjgsnQvGwz.png"/>
+<img width="300" height="300" src="https://xingye.me/tool/qrcode/4/5.png"/>
 
-<img width="300" height="300" src="https://s2.loli.net/2024/05/06/jZb1tUXaDEde6LA.png"/>
+<img width="300" height="300" src="https://xingye.me/tool/qrcode/4/6.png"/>
 
-<img width="300" height="300" src="https://s2.loli.net/2024/05/06/uS4DvWrmxTCM9eU.png"/>
+<img width="300" height="300" src="https://xingye.me/tool/qrcode/4/7.png"/>
 
-<img width="300" height="300" src="https://s2.loli.net/2024/05/06/tbfZqn51r7xOQBd.png"/>
+<img width="300" height="300" src="https://xingye.me/tool/qrcode/4/8.png"/>
 
-<img width="300" height="300" src="https://s2.loli.net/2024/05/06/3f5Gob6Yh2dvc1J.png"/>
+<img width="300" height="300" src="https://xingye.me/tool/qrcode/4/9.png"/>
 
-<img width="300" height="300" src="https://s2.loli.net/2024/05/06/jrE9svPXUbgZHN6.png"/>
+<img width="300" height="300" src="https://xingye.me/tool/qrcode/4/10.png"/>
 
 累计上当总次数：
 
